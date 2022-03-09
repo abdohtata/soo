@@ -1,0 +1,30 @@
+<html>
+<head>
+
+   <meta name="descripion" content="؟؟؟"/>
+  <title>جدول المدرس لفصل 5/2</title>
+  
+
+ 
+</head>
+    <body align="right" dir="rtl" bgcolor="White"  >
+
+   <center> <h1> الجدول </h1> </center>
+  
+  
+ <table border="1" bgcolor="White" align="center" >
+
+  
+       <tr> <td><h1>الاحد</h1></td>  <td><h2>حاسب الي</h2></td>  <td><h2>دراسات</h2></td>  <td><h2>عربي</h2></td>  <td><h2>علوم</h2></td>  <td><h2>علوم</h2></td> </tr>
+     <tr> <td><h1>الاثنين</h1></td>  <td><h2>عربي</h2></td>  <td><h2>عربي</h2></td>  <td><h2>علوم</h2></td>  <td><h2>رياضة</h2></td>  <td><h2>رياضة</h2></td> </tr>
+    <tr> <td><h1>الثلاثاء</h1></td>  <td><h2>عربي</h2></td>  <td><h2>رسم</h2></td>  <td><h2>انليزي</h2></td>  <td><h2>دراسات</h2></td>  <td><h2>دراسات</h2></td> </tr>
+    <tr> <td><h1>الاربعاء</h1></td>  <td><h2>انليزي</h2></td>  <td><h2>انليزي</h2></td>  <td><h2>مكتب</h2></td>  <td><h2>العاب</h2></td>  <td><h2>عربي</h2></td> </tr>
+     <tr> <td><h1>الخميس</h1></td>  <td><h2>رياضة</h2></td>  <td><h2>رياضة</h2></td>  <td><h2>دين</h2></td>  <td><h2>انليزي</h2></td>  <td><h2></h2></td> </tr>
+  
+
+ </table> 
+
+
+
+</body>
+</html>
